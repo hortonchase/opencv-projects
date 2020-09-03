@@ -1,0 +1,1 @@
+python color.py -i input_02.jpg
